@@ -1,0 +1,16 @@
+/* @charset "UTF-8";
+.card {
+    border-radius: 15px; Rounded corners for the card
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); Subtle shadow for depth
+    border: none; Remove default border
+}
+
+.card-header {
+    background-color:#ffe484; Olive green color
+    color: #fff; White text for contrast
+    font-size: 1.5rem; Larger font for the header
+    text-align: center; Centered text
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 15px;
+} */
