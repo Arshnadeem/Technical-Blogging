@@ -7,8 +7,8 @@ public class ConnectionProvider {
 	public static Connection getConnection(){
 		
 		String url = "jdbc:mysql://localhost:3306/Blogging";
-		String uname = "root";
-		String password = "Arshnadeem1@";
+		String uname = "----";
+		String password = "---------";
 		try {
 			if(con==null) {
 				//load driver
